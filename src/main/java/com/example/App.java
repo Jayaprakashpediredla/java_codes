@@ -10,6 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "This is from local repo");
-        System.out.println("This is from github");
     }
 }
